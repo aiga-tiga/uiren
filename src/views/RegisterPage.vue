@@ -67,5 +67,8 @@ button {
 .error {
   color: red;
 }
+.container.register_page {
+  margin-top: 80px; /* Adjust as needed */
+}
 /* Adjust other styles as needed to match the new aesthetic */
 </style>
